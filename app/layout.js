@@ -3,8 +3,8 @@ import { Footer } from "./components/Footer/Footer";
 import { Header } from "./components/Header/Header";
 
 export const metadata = {
-  title: "Home 7 erver",
-  description: "My actually made home server",
+  title: "KnotDot",
+  description: "KnotDot",
 };
 
 export default function RootLayout({ children }) {
