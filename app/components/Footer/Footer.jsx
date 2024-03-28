@@ -6,7 +6,7 @@ export const Footer = () => {
       <a className={Styles["logo"]}>
         <img
           className={Styles["logo__image"]}
-          src="/images/logo.png"
+          src="/images/logo.svg"
           alt="logo"
         />
       </a>
