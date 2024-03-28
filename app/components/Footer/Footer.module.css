@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  background-color: #adadad;
+}
+
+.logo {
+  height: 96px;
+  width: 96px;
+  margin: 16px;
+}
+
+.logo__image {
+  height: 96px;
+  width: 96px;
+}
