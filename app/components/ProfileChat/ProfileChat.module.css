@@ -1,0 +1,14 @@
+.profileChat {
+  display: flex;
+  
+}
+
+.profileChatChild {
+  margin: 8px;
+}
+
+.profilePicture {
+  width: 54px;
+  height: 54px;
+  
+}
