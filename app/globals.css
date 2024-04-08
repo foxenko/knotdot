@@ -30,12 +30,12 @@ html {
 
 body {
   margin: 0;
-  font-family: "Anonymous Pro", serif;
+  font-family: "Arial", serif;
   font-size: 26px;
   max-width: 1728px;
   min-width: 365px;
   margin: 0 auto;
-  background-color: #969696;
+  background-color: #505050;
 }
 
 h1,
@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Rubic One", sans-serif;
+  font-family: "Arial", sans-serif;
   margin: 0;
   color: white;
 }
