@@ -1,5 +1,5 @@
-## Новый простой, инновационный, лёгкий мессенджер KnotDot
-# The new simple, innovative, easy KnotDot messenger
+# Новый простой, инновационный, лёгкий мессенджер KnotDot
+## The new simple, innovative, easy KnotDot messenger
 
 
 
