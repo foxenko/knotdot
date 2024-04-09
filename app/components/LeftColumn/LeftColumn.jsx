@@ -1,5 +1,5 @@
 import Styles from "./LeftColumn.module.css";
-import { ProfileChat } from "../components/ProfileChat/ProfileChat";
+import { ProfileChat } from "../ProfileChat/ProfileChat";
 
 export const LeftColumn = () => {
   return (

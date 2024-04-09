@@ -1,12 +1,10 @@
-import { LeftColumn } from "./LeftColumn/LeftColumn";
+
+import { Messenger } from "./components/Messenger/Messenger";
 
 export default function Home() {
   return (
     <main>
-      <LeftColumn />
-
-      <div className="middleColumn"></div>
-      <div className="rightColumn"></div>
+      <Messenger />
     </main>
   );
 }
