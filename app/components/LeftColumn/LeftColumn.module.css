@@ -11,7 +11,7 @@
   flex-direction: row;
   align-items: center;
   gap: 8px;
-  margin: 8px;
+  margin: 8px 14px;
 }
 
 .menuButton {
@@ -28,5 +28,4 @@
 .menuButtonImage {
   width: 40px;
   height: 40px;
-  color: #fff;
 }

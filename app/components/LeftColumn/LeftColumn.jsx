@@ -11,6 +11,7 @@ export const LeftColumn = () => {
             src="/images/menuButton.svg"
             alt="menu"
           />
+          
         </button>
         <div className="searchInput">search</div>
       </div>
